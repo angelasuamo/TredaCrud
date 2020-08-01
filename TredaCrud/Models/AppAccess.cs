@@ -71,7 +71,7 @@ namespace TredaCrud.Models
         }
 
         //Eliminar un producto
-        public int DeleteEmployee(int id)
+        public int DeleteProduct(int id)
         {
             try
             {
